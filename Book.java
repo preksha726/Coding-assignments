@@ -1,7 +1,7 @@
 /**
  * class Book is derived from Publication
  * 
- * @author Bindu Kondreddi
+ * @author Preksha Kasatwar
  * @version final
  */
 public class Book extends Publication

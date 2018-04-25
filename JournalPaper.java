@@ -2,7 +2,7 @@
 /**
  * class Journal Paper is derived from Publication
  * 
- * @author Bindu Kondreddi
+ * @author Preksha Kasatwar
  * @version final
  */
 

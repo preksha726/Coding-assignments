@@ -1,7 +1,7 @@
 /**
  * class Publication
  * 
- * @author Bindu Kondreddi
+ * @author Preksha Kasatwar
  * @version final
  */
 

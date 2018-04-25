@@ -1,7 +1,7 @@
 /**
  * class  PublicationTest
  * 
- * @author Bindu Kondreddi
+ * @author Preksha Kasatwar
  * @version final
  */
 public class PublicationTest {
